@@ -180,7 +180,7 @@ main {
 
 .journey-details {
     display: grid;
-    grid-template-columns: 35% 1fr;
+    grid-template-columns: 45% 1fr;
     gap: 40px;
     align-items: center;
     margin: clamp(10px, 3vh, 20px) 0 0;
