@@ -198,7 +198,7 @@ main {
     font-weight: 300;
     color: #c6bdd0;
     margin: 0;
-    padding-left: 200px;
+    padding-left: clamp(0px, 10vw, 150px);
 }
 
 .journey-details p {
